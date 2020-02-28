@@ -1,0 +1,20 @@
+.search-panel{
+    margin-bottom: 5px;
+    flex-grow: 1;
+    margin-right: 3px;
+}
+
+.d-flex{
+    justify-content: space-between;
+}
+
+
+.search-input {
+    font-size: 20px;
+    width: 100%;
+    flex-grow: 1;
+    margin-right: 3px;
+    border-radius: 5px;
+    border: 1px solid rgba(109, 109, 109, 0.2);
+    padding: 5px;
+}
